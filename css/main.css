@@ -85,6 +85,8 @@ header {
     line-height: 19px;
     letter-spacing: 1px;
     text-align: center;
+}
+
 .coffe_inner_text {
     color: rgb(0, 0, 0);
     font-family: Roboto;
@@ -97,4 +99,5 @@ header {
 .bg {
     width: 1400px;
     height: 1739px;
+    background: rgb(236, 234, 231);
 }
